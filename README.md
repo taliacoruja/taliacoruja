@@ -39,9 +39,32 @@ My experience includes enterprise applications in education, healthcare, and onl
 
 ### Languages & Tools
 
-HTML · CSS · SCSS · TypeScript · JavaScript  
-Angular · RxJS · REST API · Git · Playwright  
-Accessibility (WCAG/ARIA) · SEO-friendly Markup · Responsive Design
+**Markup & Accessibility**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-444444?style=flat-square)
+![A11y](https://img.shields.io/badge/Accessibility-000000?style=flat-square&logo=accessibility&logoColor=white)
+
+**Styling & Architecture**
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-C6538C?style=flat-square&logo=sass&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-00A98F?style=flat-square)
+![ITCSS](https://img.shields.io/badge/ITCSS-1A1A1A?style=flat-square)
+
+**Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+**Tooling & Testing**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+
+**Design & Performance**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white
+
 
 
 
