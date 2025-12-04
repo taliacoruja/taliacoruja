@@ -1,9 +1,9 @@
+
 ## Hi there 💻 I'm Talia
 
 I'm a **Front-End Developer** focused on building clean, accessible, and well-structured user interfaces.  
 I work with Angular, TypeScript, HTML/CSS architecture, and a11y to create reliable, maintainable front-end solutions for real-world products.
-
-Based in Montenegro.  
+ 
 Currently working on a modular Learning Management System built with Angular 16, TypeScript and SCSS.
 
 My experience includes enterprise applications in education, healthcare, and online services, where clarity, scalability, and user comfort are essential.
