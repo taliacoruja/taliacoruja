@@ -62,7 +62,7 @@ My experience includes enterprise applications in education, healthcare, and onl
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 
 **Design & Performance**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=black)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 
 
