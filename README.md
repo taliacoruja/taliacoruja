@@ -61,5 +61,3 @@ My experience includes enterprise applications in education, healthcare, and onl
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
--->
